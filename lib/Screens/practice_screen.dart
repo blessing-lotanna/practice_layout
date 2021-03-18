@@ -94,7 +94,7 @@ class PraticeScreen extends StatelessWidget {
                    ),
 
                  ),
-                 SizedBox(height: 20,),
+                 SizedBox(height: 20),
                  ElevatedButton(
                    child: Text("Button"),
                    onPressed: (
